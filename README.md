@@ -19,4 +19,4 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://github.com/aveandrian/huddle-landing-page-with-single-introductory-section-master/assets/13519212/b4ce7ae0-e2e6-4ba2-a33f-67a20b3a3ce0)
